@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 
-namespace L02P02_2021MD601__2021QH601.Models
+namespace L02P02_2021MD601__2021QH601.Controllers
 {
     public class EquiposController : Controller
     {
